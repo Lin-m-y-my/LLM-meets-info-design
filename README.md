@@ -4,5 +4,5 @@ This project evaluates LLMs’ capabilities in Bayesian persuasion tasks, focusi
 Run this file to see the simulation results of LLMs which is the the experiment in 3.2 in project and results in 4.2. 
 ## Michelin_LLM.ipynb
 The codes for LLM interactions in the Michelin Inspecotor Recommendation problem. Please see the specific problem setting in the paper
-## Michelin_LLM_classifying.ipynb
+## Michelin_LLM_learning.ipynb
 The codes for LLM interactions with ambiguous information in the Michelin Inspecotor Recommendation problem. Please see the specific problem setting in the paper.
